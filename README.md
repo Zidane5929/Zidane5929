@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Zidane5929
-- 👀 I’m interested in Server Moderator (Minecraft)
+- 👀 I’m interested in Server Moderation (Minecraft)
 - 🌱 I’m currently learning How to professionally Moderate a Minecraft Server
-- 📫 How to reach me -Twitter @Zidane5929
-                     -Instagram @Zidane8929
-                     -Discord @Zidane#0938
-                     -Email zidanekaul@gmail.com
+- 📫 How to reach me - Zidane5929#5186 (Discord)
 
 <!---
 Zidane5929/Zidane5929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
